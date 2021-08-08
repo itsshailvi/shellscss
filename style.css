@@ -1,0 +1,120 @@
+/*hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+  border-width: 5px;
+  border-color: coral none none none;
+  color: brown;
+}*/
+
+.topelement {
+  /*background-color: #ff8474;
+  height: 200px;
+  width: 200px;
+  margin: 0 0 0 0;
+
+  border: solid 10px;
+  padding: 20px; **/
+}
+.middleelement {
+
+  position : relative;
+  top:50px;
+  /*background-color: chocolate;
+  height: 200px;
+  width: 200px;
+  margin: 0 0 0 260px;
+  padding: 20px;
+  border: solid 20px;*/
+}
+.bottomelement {
+ 
+ 
+  padding:40px;
+
+  
+  /*background-color: cadetblue;
+  color: blue;
+  height: 200px;
+  width: 200px;
+  margin: 0 0 0 540px;
+  padding: 20px;
+  border: solid 10px;*/
+} /*markusvogi*/
+
+.xbottomelement{
+
+}
+
+body {
+  text-align: center;
+  background-color: rgb(210, 235, 236);
+  font-family: 'Pacifico', cursive;
+  font-size: larger;
+}
+.image {
+  background-color: rgb(148, 210, 212);
+}
+.image1 {
+  position: relative;
+  left: 300px;
+  bottom: 100px;
+}
+
+.image2 {
+  position: relative;
+  left: 20px;
+  bottom: 350px;
+}
+.text1 {
+  position: relative;
+  bottom: 100px;
+  
+  text-shadow: 20px;
+  color: rgb(24, 78, 60);
+  font-family: "Alfa Slab One", cursive;
+}
+.image3 {
+  position: relative;
+  right: 120px;
+  
+  padding:80px;
+}
+.para1 {
+  position: relative;
+
+}
+/*flaticon.com*/
+
+.image4 {
+  height: 200px;
+  width:200px:
+  Position : relative ;
+  bottom:100px;
+}
+
+hr{
+  border-style : none;
+  background-color: pink none none none;
+  border-width: 8px;
+  border-color:rgb(143, 212, 212);
+  width : 15%;
+  border-top-style: dotted;
+
+}
+
+h2{
+  position : relative;
+  bottom:100px;
+}
+.tabl{
+  align-items: center;
+  align-content: center;
+
+  position: relative;
+  left:160px;
+  top :30px;
+
+  margin-left: 160px;
+  text-align: center;
+}
